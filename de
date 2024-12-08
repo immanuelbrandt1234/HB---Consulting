@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Immanuel Brandt und Joel Herborg - Social Media Unternehmen für Immobilienmakler und Coaches. Erreichen Sie mit uns Ihre Ziele auf Instagram und TikTok.">
+    <title>Immanuel Brandt & Joel Herborg - Social Media & Coaching</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            color: #333;
+        }
+        header {
+            background: #000;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.2rem;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #333;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 50px 20px;
+            max-width: 1200px;
+            margin: auto;
+        }
+        .intro {
+            text-align: center;
+        }
+        .intro h2 {
+            font-size: 2rem;
+            color: #000;
+        }
+        .intro p {
+            font-size: 1.2rem;
+            color: #555;
+            margin: 10px 0 0;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-top: 50px;
+        }
+        .feature {
+            width: 30%;
+            background: #f5f5f5;
+            padding: 20px;
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .feature h3 {
+            color: #000;
+            font-size: 1.5rem;
+        }
+        .feature p {
+            color: #555;
+            font-size: 1rem;
+        }
+        .cta {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .cta a {
+            text-decoration: none;
+            padding: 15px 30px;
+            background: #000;
+            color: #fff;
+            font-size: 1.2rem;
+            border-radius: 5px;
+        }
+        .cta a:hover {
+            background: #444;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            margin-top: 50px;
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Immanuel Brandt & Joel Herborg</h1>
+        <p>Social Media für Immobilienmakler & Coaches</p>
+    </header>
+    <nav>
+        <a href="#about">Über Uns</a>
+        <a href="#services">Unsere Services</a>
+        <a href="#contact">Kostenloses Erstgespräch</a>
+    </nav>
+    <section id="about" class="intro">
+        <h2>Willkommen bei Ihrem Social Media Partner</h2>
+        <p>Wir helfen Immobilienmaklern und Coaches, ihre Präsenz auf Instagram und TikTok zu maximieren. Gemeinsam erreichen wir Ihre Ziele durch moderne Strategien und effektive Kaltakquise-Methoden.</p>
+    </section>
+    <section id="services">
+        <div class="features">
+            <div class="feature">
+                <h3>Social Media Management</h3>
+                <p>Optimierung Ihrer Profile, Content-Erstellung und strategisches Wachstum.</p>
+            </div>
+            <div class="feature">
+                <h3>Coaching für Kaltakquise</h3>
+                <p>Intensive Trainings, um erfolgreich neue Kunden zu gewinnen.</p>
+            </div>
+            <div class="feature">
+                <h3>Langfristige Strategien</h3>
+                <p>Nachhaltiger Erfolg durch innovative Ansätze und maßgeschneiderte Pläne.</p>
+            </div>
+        </div>
+    </section>
+    <section class="cta">
+        <h2>Starten Sie noch heute!</h2>
+        <p>Tragen Sie sich für ein kostenloses Erstgespräch ein und erfahren Sie, wie wir Ihr Business aufs nächste Level bringen.</p>
+        <a href="#contact">Jetzt Erstgespräch sichern</a>
+    </section>
+    <footer>
+        <p>&copy; 2024 Immanuel Brandt & Joel Herborg. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
